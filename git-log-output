@@ -1,0 +1,53 @@
+commit 9f5335b4157042cce15546cba1f14775867b736b
+Author: jwalp <jrw44@njit.edu>
+Date:   Fri Sep 19 12:04:17 2025 -0400
+
+    Revert "Reapply "Added text file""
+    
+    This reverts commit 5786e239e898171fd72e05e3283e33fbb9d4fb93.
+
+commit 5786e239e898171fd72e05e3283e33fbb9d4fb93
+Author: jwalp <jrw44@njit.edu>
+Date:   Fri Sep 19 12:02:06 2025 -0400
+
+    Reapply "Added text file"
+    
+    This reverts commit 69cb7342801cb5881896d4b9d544b9c98c52bc6e.
+
+commit 69cb7342801cb5881896d4b9d544b9c98c52bc6e
+Author: jwalp <jrw44@njit.edu>
+Date:   Fri Sep 19 12:01:25 2025 -0400
+
+    Revert "Added text file"
+    
+    This reverts commit 388a8ba795502415d6c9b074bee9072c8c1616ef.
+
+commit 388a8ba795502415d6c9b074bee9072c8c1616ef
+Author: jwalp <jrw44@njit.edu>
+Date:   Fri Sep 19 11:59:19 2025 -0400
+
+    Added text file
+
+commit c7732804ded754e829945ad2b1b749fd91e88321
+Author: jwalp <jrw44@njit.edu>
+Date:   Fri Sep 19 11:35:14 2025 -0400
+
+    Added comment
+
+commit 79578c261852fd6ad363cf2bc1456f80a517281d
+Author: jwalp <jrw44@njit.edu>
+Date:   Fri Sep 19 11:19:25 2025 -0400
+
+    Restarted after issue
+
+commit b9fc6a4cdaac6a1126bec7ccccb17f4ad2235a8c
+Author: jrw44 <jrw44@njit.edu>
+Date:   Fri Sep 19 10:34:42 2025 -0400
+
+    Added the message
+
+commit da09bbfc0dff4de0c42f9cee92f1495fa9f583d6
+Author: jrw44 <jrw44@njit.edu>
+Date:   Fri Sep 19 10:31:58 2025 -0400
+
+    Initial starting point of the repo
